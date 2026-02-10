@@ -9,4 +9,4 @@ This device aims to eliminate any digital GUI when growing potted plants. It is 
 Our device provides alternative inputs and outputs for caring for plants. Traditionally, the user would view the plant, see that it is wilted or drooping, and conclude that it needs water. Our alternative is that the user can touch the plant as input, and get an instantaneous and accurate response through sounds. 
 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/CPygr40D_s0/0.jpg)]([https://www.youtube.com](https://youtu.be/CPygr40D_s0))
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/CPygr40D_s0/0.jpg)](https://youtu.be/CPygr40D_s0)
